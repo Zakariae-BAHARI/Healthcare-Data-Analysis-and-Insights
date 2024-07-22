@@ -1,8 +1,8 @@
 # Healthcare Data Analysis and Insights
 
-This project is a comprehensive data analysis of hospital and patient data aimed at uncovering patterns, trends, and insights to improve healthcare services, patient care, and hospital operations.
+This project is all about analyzing hospital and patient data to find interesting trends and insights. It involves cleaning the data, doing some exploratory analysis, and creating visualizations to help understand how healthcare services and patient care can be improved. The dataset includes various details about hospitals, patients, and admissions, making it a great foundation for analysis.
 
-## Project Overview
+## Dataset Overview
 
 The dataset used in this project contains 318,438 rows and 18 columns, including information about hospitals, patients, and their admissions. Key columns include:
 - `case_id`
